@@ -1,4 +1,4 @@
--- Atividade 2 18/03/26 
+-- Atividade 18/03/26 
 CREATE DATABASE funcionariosdb;
 CREATE TABLE employee(
 	id 					INT PRIMARY KEY AUTO_INCREMENT,
