@@ -1,4 +1,4 @@
--- Atividade 01/04/26
+-- Atividade 01/04/2026
 
 CREATE TABLE usuario (
   usuario_CPF   VARCHAR(14) NOT NULL PRIMARY KEY,
